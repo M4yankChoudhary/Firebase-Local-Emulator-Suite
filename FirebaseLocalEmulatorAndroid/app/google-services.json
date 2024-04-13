@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063659754320",
+    "project_id": "firebaselocalsuite",
+    "storage_bucket": "firebaselocalsuite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "",
+        "android_client_info": {
+          "package_name": "com.example.firebaselocalemulator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
